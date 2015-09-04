@@ -1,0 +1,24 @@
+/*
+ * General
+ */
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+}
+
+.form-title {
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+/*
+ * Install
+ */
+#step-one {
+    margin-top: 10px;
+    padding: 50px;
+    border-radius: 8px;
+    border: 1px solid #eeeeee;
+    box-shadow: 1px 1px 2px #eeeeee;
+}
